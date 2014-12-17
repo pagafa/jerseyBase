@@ -12,3 +12,4 @@ This project provides:
 
 It works as a very simple web app.
  
+To initialize the project to be used with eclipse just type **graldew eclipse**
